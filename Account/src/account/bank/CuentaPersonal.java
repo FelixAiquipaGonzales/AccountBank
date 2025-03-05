@@ -34,7 +34,7 @@ public class CuentaPersonal {
 
 
 
-
+        //programador : Felix A. Aiquipa Gonzales
 
     }
 }
